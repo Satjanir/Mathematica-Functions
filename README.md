@@ -5,4 +5,5 @@ Functions Include:
 
 Probability Normal functions \
 Binomial Distribution Functions \
-Transformation Functions \
+Transformation Functions 
+
